@@ -34,7 +34,7 @@ add_action('wp_footer' , 'darvish_func');
 			</div>
 			<div class="enter-chat-wa-btn">
 		
-				<a href="https://api.whatsapp.com/send?phone=+989036666022">
+				<a href="https://api.whatsapp.com/send?phone=+98">
 					<span class="start-chat">ورود به گفتگو</span>
 					<span>
 						<img src="<?php echo PLUGIN_URLIMG . '/send-new.gif' ?>" class="img-responsive center-block" />
